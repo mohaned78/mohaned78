@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohand Alahmari</h1>
+<h1 align="center">👋 I'm Mohand Alahmari</h1>
 <h3 align="center">💻 Full Stack Web Developer (Front-End & Back-End)</h3>
 
 ---
