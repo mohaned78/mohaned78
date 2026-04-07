@@ -3,9 +3,6 @@
 
 ---
 
-<p><strong><summary>🚀 Currently Coding & Vibing to:</summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) 
 
 ---
 
