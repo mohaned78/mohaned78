@@ -1,8 +1,3 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
 <h1 align="center">Hi 👋, I'm Mohand Alahmari</h1>
 <h3 align="center">💻 Full Stack Web Developer (Front-End & Back-End)</h3>
 
@@ -30,6 +25,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
+### ☕ Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
@@ -46,12 +44,13 @@ class Mohand {
 
     public $skills = [
         "Frontend" => ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "Backend" => ["PHP", "MySQL"]
+        "Backend" => ["PHP", "MySQL"],
+        "Languages" => ["Java"]
     ];
 
     public $tools = ["Git", "GitHub", "VS Code"];
 
-    public $currentlyLearning = "Advanced PHP & Modern JavaScript";
+    public $currentlyLearning = "Advanced PHP, Java & Modern JavaScript";
 }
 ?>
 ```
@@ -60,10 +59,10 @@ class Mohand {
 
 ## 👨‍💻 About Me
 
-- 💻 أنا **مهند الأحمري** مطور مواقع ويب (Full Stack)  
-- ⚙️ أشتغل على **Front-End + Back-End باستخدام PHP**  
-- 🌱 أطور نفسي حاليًا في **JavaScript و PHP بشكل أعمق**  
-- 🚀 هدفي أبني مواقع احترافية وقوية  
+- 💻 I'm **Mohand Alahmari**, a Full Stack Web Developer  
+- ⚙️ I build web applications using **Front-End & Back-End technologies**  
+- 🌱 Currently learning **Advanced PHP, Java, and JavaScript**  
+- 🚀 Passionate about creating modern and responsive websites  
 
 ---
 
@@ -80,9 +79,9 @@ class Mohand {
 
 ## 📫 Contact Me
 
-- 📱 Telegram: [حط حسابك هنا](https://t.me/)
+- 📱 Telegram: [Add your account](https://t.me/)
 - 💼 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
-🔥 **Fun Fact:** أستمتع بحل المشاكل البرمجية أكثر من أي شيء 😎
+🔥 **Fun Fact:** I enjoy solving coding problems more than anything 😎
